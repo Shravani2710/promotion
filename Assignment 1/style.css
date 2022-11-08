@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+    background:rgb(36, 33, 36);
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table,tr,td,th{
+    table-layout: fixed;
+    border: 1px solid rgb(164, 151, 151);
+    border-collapse: collapse;
+    padding: 20px;
+    color: aliceblue;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ta{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+
+}
+
+
+.head-1a{
+    text-align: left;
+    background-color: aliceblue;
+    color: black;
+    width: 40%;
+}
+.heading-1b{
+    background-color: rgb(241, 198, 27);
+    width: 20%;
+}
+
+.heading-1c{
+    background-color: rgb(222, 51, 51);
+    width: 20%;
+}
+
+.heading-1d{
+    background-color: rgb(34, 200, 238);
+    width: 20%;
+}
+
+.heading-3b{
+    color: rgb(241, 198, 27);
+    text-align: center;
+    font-size: 35px;
+}
+.heading-3c{
+    color:  rgb(222, 51, 51);
+    text-align: center;
+    font-size: 35px;
+}
+
+.heading-3d{
+    color:  rgb(34, 200, 238);
+    text-align: center;
+    font-size: 35px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.tick{
+    text-align: center;
+}
+
+.tick .right{
+    color: rgb(241, 198, 27);
+}
+
+.kbutton{
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 60px;
+    font-size: 15px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-color:brown ;
+    margin: auto;
+}
+
+
+
